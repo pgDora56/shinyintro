@@ -1,0 +1,147 @@
+{
+    "idols": [
+        {
+            "name": "櫻木真乃",
+            "unit": "イルミネーションスターズ",
+            "type": "Vo",
+            "url": "https://image.boom-app.wiki/wiki/5a824ae1b1b4b803847278d1/35a59c77b6e647b3c56a66662fa46329.jpg"
+        },
+        {
+            "name": "風野灯織",
+            "unit": "イルミネーションスターズ",
+            "type": "Da",
+            "url": "https://image.boom-app.wiki/wiki/5a824ae1b1b4b803847278d1/c2cafc5284712dd1c2124432583e3a96.jpg"
+        },
+        {
+            "name": "八宮めぐる",
+            "unit": "イルミネーションスターズ",
+            "type": "Vi",
+            "url": "https://image.boom-app.wiki/wiki/5a824ae1b1b4b803847278d1/6e207cb6c08f58f6054a23f2d10b6b69.jpg"
+        },
+
+        {
+            "name": "月岡恋鐘",
+            "unit": "アンティーカ",
+            "type": "Vo",
+            "url": "https://image.boom-app.wiki/wiki/5a824ae1b1b4b803847278d1/5d23077e2e07da17b0bf9cbeeb841369.jpg"
+        },
+        {
+            "name": "幽谷霧子",
+            "unit": "アンティーカ",
+            "type": "Vi",
+            "url": "https://image.boom-app.wiki/wiki/5a824ae1b1b4b803847278d1/8da8277be6b8d9e1215e5c0c5c04dca6.jpg"
+        },
+        {
+            "name": "三峰結華",
+            "unit": "アンティーカ",
+            "type": "Da",
+            "url": "https://image.boom-app.wiki/wiki/5a824ae1b1b4b803847278d1/07b524570dbf76e9a64ea97cb031c862.jpg"
+        },
+        {
+            "name": "田中摩美々",
+            "unit": "アンティーカ",
+            "type": "Da",
+            "url": "https://image.boom-app.wiki/wiki/5a824ae1b1b4b803847278d1/d4e562c2f913a099258b4ddfbfc3169e.jpg"
+        },
+        {
+            "name": "白瀬咲耶",
+            "unit": "アンティーカ",
+            "type": "Vi",
+            "url": "https://image.boom-app.wiki/wiki/5a824ae1b1b4b803847278d1/02aba65fd73a9fba60f0e42dde80ba12.jpg"
+        },
+
+        {
+            "name": "小宮果穂",
+            "unit": "放課後クライマックスガールズ",
+            "type": "Vi",
+            "url": "https://image.boom-app.wiki/wiki/5a824ae1b1b4b803847278d1/a808bfdace8478b3eb9e5db0293370e9.jpg"
+        },
+        {
+            "name": "園田智代子",
+            "unit": "放課後クライマックスガールズ",
+            "type": "Vo",
+            "url": "https://image.boom-app.wiki/wiki/5a824ae1b1b4b803847278d1/481b13db242e01fb438383211de608cf.jpg"
+        },
+        {
+            "name": "西城樹里",
+            "unit": "放課後クライマックスガールズ",
+            "type": "Da",
+            "url": "https://image.boom-app.wiki/wiki/5a824ae1b1b4b803847278d1/442b12eb4b0015eb21c56b47c026cc01.jpg"
+        },
+        {
+            "name": "杜野凛世",
+            "unit": "放課後クライマックスガールズ",
+            "type": "Vi",
+            "url": "https://image.boom-app.wiki/wiki/5a824ae1b1b4b803847278d1/36e572ad22afedc4ae22e1fe0bbaffd5.jpg"
+        },
+        {
+            "name": "有栖川夏葉",
+            "unit": "放課後クライマックスガールズ",
+            "type": "Vo",
+            "url": "https://image.boom-app.wiki/wiki/5a824ae1b1b4b803847278d1/1b1fb3618b9713e1d23cb5c7f0a1659e.jpg"
+        },
+
+        {
+            "name": "大崎甘奈",
+            "unit": "アルストロメリア",
+            "type": "Da",
+            "url": "https://image.boom-app.wiki/wiki/5a824ae1b1b4b803847278d1/449ccef1517f705e46ccdcb63ca3dd24.jpg"
+        },
+        {
+            "name": "桑山千雪",
+            "unit": "アルストロメリア",
+            "type": "Vo",
+            "url": "https://image.boom-app.wiki/wiki/5a824ae1b1b4b803847278d1/7d955b6d9a9bda3ac2e97016d22e9660.jpg"
+        },
+        {
+            "name": "大崎甜花",
+            "unit": "アルストロメリア",
+            "type": "Vi",
+            "url": "https://image.boom-app.wiki/wiki/5a824ae1b1b4b803847278d1/05b158d0c631c04590372ddbb8c6823b.jpg"
+        },
+
+        {
+            "name": "芹沢あさひ",
+            "unit": "ストレイライト",
+            "type": "Vo",
+            "url": "https://image.boom-app.wiki/wiki/5a824ae1b1b4b803847278d1/be970ec21388376bf0e0a68c91714ec9.jpg"
+        },
+        {
+            "name": "黛冬優子",
+            "unit": "ストレイライト",
+            "type": "Vi",
+            "url": "https://image.boom-app.wiki/wiki/5a824ae1b1b4b803847278d1/5c6d052b5163b789088db7674dc7fa3e.jpg"
+        },
+        {
+            "name": "和泉愛依",
+            "unit": "ストレイライト",
+            "type": "Da",
+            "url": "https://image.boom-app.wiki/wiki/5a824ae1b1b4b803847278d1/11bb2b5c53ee2ae352f8c23cc84ec184.jpg"
+        },
+
+        {
+            "name": "浅倉透",
+            "unit": "ノクチル",
+            "type": "Vo",
+            "url": "https://image.boom-app.wiki/wiki/5a824ae1b1b4b803847278d1/c9c198805de5332f256a482a1bbef59e.jpg"
+        },
+        {
+            "name": "樋口円香",
+            "unit": "ノクチル",
+            "type": "Da",
+            "url": "https://image.boom-app.wiki/wiki/5a824ae1b1b4b803847278d1/c283005fa3df66a44a1f3d1595facc5d.jpg"
+        },
+        {
+            "name": "福丸小糸",
+            "unit": "ノクチル",
+            "type": "Vo",
+            "url": "https://image.boom-app.wiki/wiki/5a824ae1b1b4b803847278d1/9f0360d177a12eed8ee8b5e41becbee4.jpg"
+        },
+        {
+            "name": "市川雛菜",
+            "unit": "ノクチル",
+            "type": "Vi",
+            "url": "https://image.boom-app.wiki/wiki/5a824ae1b1b4b803847278d1/f66819e57684ecb0de7739f878426919.jpg"
+        }
+    ]
+}
