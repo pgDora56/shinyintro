@@ -8,7 +8,16 @@
 ```
 API_TOKEN = "Slackのトークン" # Token
 DEFAULT_REPLY = "夏川はいいぞ"
-PLUGINS = ['plugins']
+```
+
+## setting.json の中身
+```
+{
+    "ID": "client_id",
+    "SECRET": "client_secret",
+    "AUTH": "playback oauth token",
+    "DEVICE": "play device id"
+}
 ```
 
 ## LICENSE
